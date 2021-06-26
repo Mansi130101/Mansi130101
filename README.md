@@ -1,6 +1,6 @@
-## Hi there 👋, I'm Praneeth Reddy.
-### I am a passionate open source contributer and a full stack developer.
-![cover photo](https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/cover.jpg)
+## Hi there 👋, I'm Mansi Uniyal.
+### I am a passionate learner, having a keen interest in fields of machine learning and deep learning.
+![cover photo](https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/cover.jpg)
 
 <p>
 
@@ -13,7 +13,7 @@
 
 
 
-I am a second year undergrad at IIT Kharagpur. Open Source software excites me, and I am ever ready to learn more. I am eagerly waiting to contribute to interesting open-source projects.
+I am a second year undergrad at IIT Kharagpur in the department of Electrical Engineering enrolled in its Btech course. Open Source software excites me, and I am ever ready to learn more. I am eagerly waiting to contribute to interesting open-source projects.
 
 - 🔭 I’m currently working on a static chatbot and a mock tests django website. 
 - 🌱 I’m currently learning React.js 
