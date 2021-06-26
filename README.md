@@ -4,11 +4,11 @@
 
 <p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=praneeth-rdy.praneeth-rdy)
-    <a href="https://github.com/praneeth-rdy/"><img src="https://img.shields.io/github/followers/praneeth-rdy?style=social"/></a>
-    <a href="https://github.com/praneeth-rdy?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+![](https://visitor-badge.glitch.me/badge?page_id=Mansi130101.Mansi130101)
+    <a href="https://github.com/Mansi130101/"><img src="https://img.shields.io/github/followers/Mansi130101?style=social"/></a>
+    <a href="https://github.com/Mansi130101?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
     <img src="https://img.shields.io/badge/OS-Ubuntu-dc143c"/>
-    <a href="https://praneeth-rdy.github.io/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https%3A%2F%2Fpraneeth-rdy.github.io%2F"/></a>
+    <a href="https://Mansi130101.github.io/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https%3A%2F%2FMansi130101.github.io%2F"/></a>
 </p>
 
 
@@ -53,18 +53,18 @@ I am a second year undergrad at IIT Kharagpur in the department of Electrical En
 
 <br/>
 <p align="center">
-    <a href="https://www.buymeacoffee.com/praneeth" ><img width="200px" src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/BMC.svg" alt="praneeth | bmc"/><a>
+    <a href="https://www.buymeacoffee.com/mansi" ><img width="200px" src="https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/BMC.svg" alt="mansi | bmc"/><a>
 </p>
 
 
 <h2><b>⚡ Github Stats</b></h2>
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=praneeth-rdy&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="praneeth"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneeth-rdy&theme=vue&hide=css,tcl,html" alt="praneeth" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mansi130101&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="praneeth"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi130101&theme=vue&hide=css,tcl,html" alt="mansi" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praneeth-rdy&theme=tokyonight_duo&hide_border=false" alt="Praneeth-rdy's readme streaks" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansi130101&theme=tokyonight_duo&hide_border=false" alt="Mansi130101's readme streaks" />
 </p>
 
 <br/><br/>
@@ -74,10 +74,10 @@ I am a second year undergrad at IIT Kharagpur in the department of Electrical En
 <div>
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href= "https://www.linkedin.com/in/praneeth-/"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/linkedin.png"/></a>
-  <a href= "https://medium.com/@praneeth.kolanu.iitkgp"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/medium-new.png"/></a>
-  <a href= "mailto:praneeth.kolanu.iitkgp@gmail.com"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/email.png"/></a>
-  <a href= "https://www.facebook.com/praneeth.reddy.3557440/"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/facebook.png"/></a>
-  <a href= "https://instagram.com/praneeth__rdy"><img src="https://raw.githubusercontent.com/praneeth-rdy/praneeth-rdy/master/assets/instagram.png"/></a>
+  <a href= "https://www.linkedin.com/in/mansi-uniyal-053158176/"><img src="https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/linkedin.png"/></a>
+  <a href= ""><img src="https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/medium-new.png"/></a>
+  <a href= "mailto:mansiuniyal130101@gmail.com"><img src="https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/email.png"/></a>
+  <a href= "https://www.facebook.com/praneeth.reddy.3557440/"><img src="https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/facebook.png"/></a>
+  <a href= "https://instagram.com/praneeth__rdy"><img src="https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/instagram.png"/></a>
 </p>
 </div>
