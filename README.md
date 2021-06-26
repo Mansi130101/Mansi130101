@@ -77,7 +77,7 @@ I am a second year undergrad at IIT Kharagpur in the department of Electrical En
   <a href= "https://www.linkedin.com/in/mansi-uniyal-053158176/"><img src="https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/linkedin.png"/></a>
   <a href= ""><img src="https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/medium-new.png"/></a>
   <a href= "mailto:mansiuniyal130101@gmail.com"><img src="https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/email.png"/></a>
-  <a href= "https://www.facebook.com/praneeth.reddy.3557440/"><img src="https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/facebook.png"/></a>
-  <a href= "https://instagram.com/praneeth__rdy"><img src="https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/instagram.png"/></a>
+  <a href= "https://www.facebook.com/mansi.uniyal.71/"><img src="https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/facebook.png"/></a>
+  <a href= "https://www.instagram.com/_mansiuniyal/"><img src="https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/instagram.png"/></a>
 </p>
 </div>
