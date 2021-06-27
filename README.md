@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Mansi Uniyal.
-### I am a enquisitive learner, having a keen interest in fields of deep learning and machine learning.
+### I am an inquisitive learner, having a keen interest in fields of deep learning and machine learning.
 ![cover photo](https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/cover.jpg)
 
 
