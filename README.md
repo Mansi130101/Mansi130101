@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Mansi Uniyal.
-### I am a passionate learner, having a keen interest in fields of machine learning and deep learning.
+### I am a enquisitive learner, having a keen interest in fields of deep learning and machine learning.
 ![cover photo](https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/cover.jpg)
 
 <p>
@@ -13,22 +13,21 @@
 
 
 
-I am a second year undergrad at IIT Kharagpur in the department of Electrical Engineering enrolled in its Btech course. Open Source software excites me, and I am ever ready to learn more. I am eagerly waiting to contribute to interesting open-source projects.
+I am a third year undergradate student at IIT Kharagpur in the Department of Electrical Engineering enrolled in its BTech course. I am eagerly waiting to contribute to interesting research projects. I love exploring new fields of interests and grasping a variety of knowledge.
 
-- 🔭 I’m currently working on a static chatbot and a mock tests django website. 
-- 🌱 I’m currently learning React.js 
-- 👯 I’m looking forward to collaborate in any interesting project. 
-- 💬 Talk with me about technology, finance and entrepreneurship. 
-- ⚡ My Motto: Success is not how much money you make, it is how much difference you bring in people's lives. 
-
+- 🔭 I’m currently working on a . 
+- 🌱 I’m currently exploring on application domains of deep learning. 
+- 👯 I’m looking forward to collaborate in any interesting research project.
+- ⚡ My Motto: Living upto the expectations... Building a future I love. 
 
 
 
 
+<!-- 
 <h2><b>💻 Tech Stack</b></h2>
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" height="25"/>
-<!-- <img src="https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/> 
+<img src="https://img.shields.io/badge/php-8892BF.svg?&style=for-the-badge&logo=php&logoColor=white" height="25"/> 
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="25"/> 
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
@@ -48,8 +47,8 @@ I am a second year undergrad at IIT Kharagpur in the department of Electrical En
 <img src="https://img.shields.io/badge/Flutter-000000.svg?&style=for-the-badge&logo=flutter&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Bootstrap-008080.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/sqlite-7CBEE4.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/Django-092D1F.svg?&style=for-the-badge&logo=Django&logoColor=white" height="25"/> -->
-</p>
+<img src="https://img.shields.io/badge/Django-092D1F.svg?&style=for-the-badge&logo=Django&logoColor=white" height="25"/> 
+</p>-->
 
 <br/>
 <p align="center">
@@ -75,7 +74,6 @@ I am a second year undergrad at IIT Kharagpur in the department of Electrical En
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href= "https://www.linkedin.com/in/mansi-uniyal-053158176/"><img src="https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/linkedin.png"/></a>
-  <a href= ""><img src="https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/medium-new.png"/></a>
   <a href= "mailto:mansiuniyal130101@gmail.com"><img src="https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/email.png"/></a>
   <a href= "https://www.facebook.com/mansi.uniyal.71/"><img src="https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/facebook.png"/></a>
   <a href= "https://www.instagram.com/_mansiuniyal/"><img src="https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/instagram.png"/></a>
