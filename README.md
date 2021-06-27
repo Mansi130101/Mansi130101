@@ -2,6 +2,7 @@
 ### I am a enquisitive learner, having a keen interest in fields of deep learning and machine learning.
 ![cover photo](https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/cover.jpg)
 
+
 <p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Mansi130101.Mansi130101)
@@ -14,9 +15,11 @@
 
 I am a third year undergradate student at IIT Kharagpur in the Department of Electrical Engineering enrolled in its BTech course. I am eagerly waiting to contribute to interesting research projects. I love exploring new fields of interests and grasping a variety of knowledge.
 
-- 🔭 I’m currently working on a . 
+<!--  - 🔭 I’m currently working on a . -->
 - 🌱 I’m currently exploring on application domains of deep learning. 
 - 👯 I’m looking forward to collaborate in any interesting research project.
+- 📚 On the way of building my notes of learning: [Website Link](https://Mansi130101.github.io/).
+- 🔥 Find more about my past projects: [Resume Link]("https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/mansi_cv.pdf")
 - ⚡ My Motto: Living upto the expectations... Building a future I love. 
 
 
