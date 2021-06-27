@@ -13,7 +13,7 @@
 
 
 
-I am a third year undergradate student at IIT Kharagpur in the Department of Electrical Engineering enrolled in its BTech course. I am eagerly waiting to contribute to interesting research projects. I love exploring new fields of interests and grasping a variety of knowledge.
+I am a third year undergradate student at IIT Kharagpur in the Department of Electrical Engineering enrolled in its BTech course. I am eager to contribute to interesting research projects. I love exploring new fields of interests and grasping a variety of knowledge.
 
 <!--  - 🔭 I’m currently working on a . -->
 - 🌱 I’m currently exploring on application domains of deep learning. 
@@ -58,7 +58,7 @@ I am a third year undergradate student at IIT Kharagpur in the Department of Ele
 </p>
 
 
-<h2><b>⚡ Github Stats</b></h2>
+<h2><b> 👉 Github Stats</b></h2>
 <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mansi130101&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="mansi"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi130101&theme=vue&hide=css,tcl,html" alt="mansi" />
