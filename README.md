@@ -7,7 +7,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Mansi130101.Mansi130101)
     <a href="https://github.com/Mansi130101/"><img src="https://img.shields.io/github/followers/Mansi130101?style=social"/></a>
     <a href="https://github.com/Mansi130101?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-    <img src="https://img.shields.io/badge/OS-Ubuntu-dc143c"/>
     <a href="https://Mansi130101.github.io/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https%3A%2F%2FMansi130101.github.io%2F"/></a>
 </p>
 
