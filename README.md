@@ -19,7 +19,7 @@ I am a third year undergradate student at IIT Kharagpur in the Department of Ele
 - 🌱 I’m currently exploring on application domains of deep learning. 
 - 👯 I’m looking forward to collaborate in any interesting research project.
 - 📚 On the way of building my notes of learning: [Website Link](https://Mansi130101.github.io/).
-- 🔥 Find more about my past projects: [Resume Link]("https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/mansi_cv.pdf")
+- 🔥 Find more about my past projects: [Resume Link](https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/mansi_cv.pdf)
 - ⚡ My Motto: Living upto the expectations... Building a future I love. 
 
 
@@ -60,7 +60,7 @@ I am a third year undergradate student at IIT Kharagpur in the Department of Ele
 
 <h2><b>⚡ Github Stats</b></h2>
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mansi130101&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="praneeth"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mansi130101&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="mansi"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansi130101&theme=vue&hide=css,tcl,html" alt="mansi" />
 </p>
 
