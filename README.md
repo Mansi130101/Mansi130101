@@ -17,7 +17,7 @@ I am a third year undergradate student at IIT Kharagpur in the Department of Ele
 
 <!--  - 🔭 I’m currently working on a . -->
 - 🌱 I’m currently exploring on application domains of deep learning. 
-- 👯 I’m looking forward to collaborate in any interesting research project.
+- 👯 I’m looking forward to collaborate in research projects.
 - 📚 On the way of building my notes of learning: [Website Link](https://Mansi130101.github.io/).
 - 🔥 Find more about my past projects: [Resume Link](https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/mansi_cv.pdf)
 - ⚡ My Motto: Living upto the expectations... Building a future I love. 
