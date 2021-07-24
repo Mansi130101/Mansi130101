@@ -8,7 +8,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Mansi130101.Mansi130101)
     <a href="https://github.com/Mansi130101/"><img src="https://img.shields.io/github/followers/Mansi130101?style=social"/></a>
     <a href="https://github.com/Mansi130101?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-    <a href="https://Mansi130101.github.io/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https%3A%2F%2FMansi130101.github.io%2F"/></a>
+    <!--<a href="https://Mansi130101.github.io/"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=down&up_color=%231e90ff&up_message=live&url=https%3A%2F%2FMansi130101.github.io%2F"/></a> -->
 </p>
 
 
@@ -18,7 +18,7 @@ I am a third year undergradate student at IIT Kharagpur in the Department of Ele
 <!--  - 🔭 I’m currently working on a . -->
 - 🌱 I’m currently exploring on application domains of deep learning. 
 - 👯 I’m looking forward to collaborate in research projects.
-- 📚 On the way of building my notes of learning: [Website Link](https://Mansi130101.github.io/).
+<!--- 📚 On the way of building my notes of learning: [Website Link](https://Mansi130101.github.io/). -->
 - 🔥 Find more about my past projects: [Resume Link](https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/mansi_cv.pdf)
 - ⚡ My Motto: Living upto the expectations... Building a future I love. 
 
