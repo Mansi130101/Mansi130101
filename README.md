@@ -13,7 +13,7 @@
 
 
 
-I am a third year undergradate student at IIT Kharagpur in the Department of Electrical Engineering enrolled in its BTech course. I am eager to contribute to interesting research projects. I love exploring new fields of interests and grasping a variety of knowledge.
+I am a fourth year undergradate student at IIT Kharagpur in the Department of Electrical Engineering enrolled in its BTech course. I also have a Minor in Computer Science & Engineering, and a Micro specialization in Artificial Intelligence & applications. I am eager to contribute to interesting research projects. I love exploring new fields of interests and grasping a variety of knowledge.
 
 <!--  - 🔭 I’m currently working on a . -->
 - 🌱 I’m currently exploring on application domains of deep learning. 
