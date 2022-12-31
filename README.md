@@ -12,13 +12,13 @@
 </p>
 
 
+Here is the link to my website: https://mansi-uniyal.notion.site/Mansi-Uniyal-922237d29c6e402cb401d829d69906c7
 
 I am a fourth year undergradate student at IIT Kharagpur in the Department of Electrical Engineering enrolled in its BTech course. I also have a Minor in Computer Science & Engineering, and a Micro specialization in Artificial Intelligence & applications. I am eager to contribute to interesting research projects. I love exploring new fields of interests and grasping a variety of knowledge.
 
 <!--  - 🔭 I’m currently working on a . -->
 - 🌱 I’m currently exploring on application domains of deep learning. 
-- 👯 I’m looking forward to collaborate in research projects.
-<!--- 📚 On the way of building my notes of learning: [Website Link](https://Mansi130101.github.io/). -->
+- 👯 I’m looking forward to collaborate in research projects. <!--- 📚 On the way of building my notes of learning: [Website Link](https://Mansi130101.github.io/). -->
 - 🔥 Find more about my past projects: [Resume Link](https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/mansi_cv.pdf)
 - ⚡ My Motto: Living upto the expectations... Building a future I love. 
 
