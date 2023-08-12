@@ -22,13 +22,6 @@ I have recently graduated from IIT Kharagpur as an undergraduate student in the 
 - 🔥 Find more about my past projects: [Resume Link](https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/mansi_cv.pdf)
 - ⚡ My Motto: Living up to the expectations... Building a future I love. 
 
-
-<br/>
-<p align="center">
-    <a href="https://www.buymeacoffee.com/mansi" ><img width="200px" src="https://raw.githubusercontent.com/Mansi130101/Mansi130101/master/assets/BMC.svg" alt="mansi | bmc"/><a>
-</p>
-
-
 <h2><b> 💻 Github Stats</b></h2>
 <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mansi130101&count_private=true&show_icons=true&theme=vue&include_all_commits=true" alt="mansi"/>
@@ -39,9 +32,7 @@ I have recently graduated from IIT Kharagpur as an undergraduate student in the 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansi130101&theme=tokyonight_duo&hide_border=false" alt="Mansi130101's readme streaks" />
 </p>
 
-<br/><br/>
 <hr>
-
 <!--from img.icons8.com/dusk/48/000000/name.png-->
 <div>
 <h3 align="center">Connect with me</h3>
